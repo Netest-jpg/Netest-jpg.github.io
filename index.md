@@ -1,6 +1,3 @@
 ---
-layout: post
-title: "Hello, World"
+layout: home
 ---
-
-My first post, written in **Markdown**.
