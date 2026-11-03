@@ -14,7 +14,7 @@ paginate_path: /page:num/
 
 author:
   name: "Netest"
-  bio: "hello world"
+  bio: ""
 
 defaults:
   - scope:
