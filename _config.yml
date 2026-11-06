@@ -19,7 +19,6 @@ author:
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       classes: wide
