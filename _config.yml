@@ -1,7 +1,7 @@
 title: Blog
 description: Thoughts and notes
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-remote-theme
